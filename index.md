@@ -84,3 +84,9 @@ Customer satisfaction and delight is the best way to make money.
 The other one is less familiar unless you are in the internet game:
 
 <div class='well text-primary'>I will invest in any technology business that can turn a $10bn market into a $1bn one</div>
+
+This is why we are going to release Hypernumbers as an open source product - like WordPress - so that you can download it and run it yourself for free. If we can help you make your business run better, we can make money. Its a great model.
+
+Before we can release it we need to finalise some stuff, like intellectual property, and documentation to make it easy to install.
+
+If you have read this far, you must be interested, so please sign up for our mailing list. We won't spam you, you can unsubscribe at any time. We will also send you a **FREE** ebook on Hypernumbers so you can read up about what it can do.
