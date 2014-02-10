@@ -9,6 +9,12 @@
 .navbar .nav {
   float: right; }
 
+/* strap */
+.hn_strap {
+    color       : darkorange;
+    font-weight : bold;
+}
+
 /* posts index */
 .post > h3.title {
   position: relative;
