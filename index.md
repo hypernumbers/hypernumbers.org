@@ -12,7 +12,7 @@ So why to so many people in business complain about spreadsheets? drowning in th
 What is it about spreadsheets that drives people to such heights of love and hate?
 
 <div class='jumbotron'>
-<h2>You have a love/hate relationship with spreadsheets <small class='hn_strap'>we can make it love/love</small></h2>
+<h2>You have a love/hate relationship with spreadsheets</h2><h2 class='hn_strap'>we can make it love/love</h2>
 </div>
 
 Its easy really, we take the bits you love and we keep them, and we take the bits you hate and we throw them away. So what do you love about spreadsheets?
@@ -25,7 +25,7 @@ We keep that in Hypernumbers - spreadsheet interface, 150+ functions identical t
 The all we have to do is take away **all** the things you hate about spreadsheets, easie-peasie...
 
 <div class='jumbotron'>
-<h2>Nothing like a stack of pancakes to scoff to cheer you up <small class='hn_strap'>nothing like a stack of spreadsheets to aggregate to get you down</small></h2>
+<h2>Nothing like a stack of pancakes to scoff to cheer you up</h2><h2 class='hn_strap'>nothing like a stack of spreadsheets to aggregate to get you down</h2>
 </div>
 
 You're on a deadline. There's a email you have to send, but you don't want to. You know the longer you put off sending it the worse it will be - because the later the responses will come in - the more pressuse you will be under.
@@ -48,7 +48,7 @@ How cool would it be if you could write a spreadsheet that could roll-up spreads
 Well we're not trying to fool you, you aggregate Hypernumbers spreadsheets using spreadsheet functions. Really. No fancy tricks.
 
 <div class='jumbotron'>
-<h2>Few spreadsheets get evil-broken, some spreadsheets get careless-broken <small class='hn_strap'>but almost all spreadsheets get thoughtless-broken</small></h2>
+<h2>Few spreadsheets get evil-broken, some spreadsheets get careless-broken</h2><h2 class='hn_strap'>but almost all spreadsheets get thoughtless-broken</h2>
 </div>
 
 There are three types of people that get to see my spreadsheets - me, the one that builds it, thinks about the spreadsheets, puts in the formulae. Then there's my readers - the ones I want to look at the graphs, study the figures, understand what's going on. Finally there's the folk whose data I need.
@@ -60,7 +60,7 @@ One click makes the spreadsheet a webpage - so the readers can read it. They **d
 Select the cells you want and one-click turns the spreadsheet into a form - the data enterers enter the data you need - ditto on the breakage front.
 
 <div class='jumbotron'>
-<h2>Nobody's favourite party game is 'Who Changed That Number?' <small class='hn_strap'>ever</small></h2>
+<h2>Nobody's favourite party game is 'Who Changed That Number?'</h2><h2 class='hn_strap'>ever</h2>
 </div>
 
 Don't like sprouts, don't eat them. Don't like 'Who Changed That Number?', you never have to play it again.
@@ -72,7 +72,17 @@ Because Hypernumbers logs for audit **all changes** to **all cells** by **all pe
 *(Go-on admit it, say to your self "I love that", if you're at work or on a train or in a coffeebar you can just think it, no need to come the wierdo...)*
 
 <div class='jumbotron'>
-<h2>You'll know I'm lying if I say its FREE, well its not <small class='hn_strap'>yet, but it will be</small></h2>
+<h2>We know Hypernumbers is good</h2><h2 class='hn_strap'>and here's how we know</h2>
+</div>
+
+The team behind Hypernumbers met building banks, Direct Line Financial Services, Standard Life Bank and if.com. We modelled banks in spreadsheets and tested banks against spreadsheets. The challenge we set ourselves was *could you build a small mortgage bank in Hypernumbers?*
+
+The answer is **Yes**, its good enough, lets change the world. Don't get us wrong, you won't build a monster bank, but 5,000 mortgages, you can do that.
+
+Not they, them: but you.
+
+<div class='jumbotron'>
+<h2>You'll know I'm lying if I say its FREE, well its not</h2><h2 class='hn_strap'>yet, but it will be</h2>
 </div>
 
 Most so-called business saying are guff, but there are two that I really believe in:
